@@ -476,7 +476,7 @@ button.main_bt a:hover { color: #fa3e19; }
 .map_section{
 	width: 100%;
 	float: left;
-	padding-top: 90px;
+	padding-bottom: 90px;
 }
 
 .contact_section{
@@ -603,7 +603,7 @@ button.main_bt a:hover { color: #fa3e19; }
 
 #map {
     height: 100%;
-    min-height: 480px;
+    min-height: 10px;
 }
 
 .product_section_2 .images {
